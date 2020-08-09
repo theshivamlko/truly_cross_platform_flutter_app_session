@@ -5,7 +5,7 @@ I gave a talk on- Make your first Cross Platform app using Flutter that runs on 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://opensource.org/licenses/Apache-2.0)
  
-![Image](https://i.imgur.com/iSIKA6o.png) [Coming Soon..](https://www.youtube.com/c/navoki)
+![Image](https://i.imgur.com/iSIKA6o.png) [Youtube Video](https://www.youtube.com/watch?v=WCg9wIVKo7Y)
 
 
 ## Screenshots
@@ -17,7 +17,7 @@ I gave a talk on- Make your first Cross Platform app using Flutter that runs on 
 
 ## Video
 Coming Soon...
-<!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g-hPh6FPfgo/0.jpg)](https://www.youtube.com/watch?v=g-hPh6FPfgo) -->
+ [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WCg9wIVKo7Y/0.jpg)](https://www.youtube.com/watch?v=WCg9wIVKo7Y) 
 
  
 ## Getting Started
