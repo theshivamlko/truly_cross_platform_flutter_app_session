@@ -3,8 +3,7 @@
 
 I gave a talk on- Make your first Cross Platform app using Flutter that runs on **Android, iOS, Web, Windows, macOS, Linux.**
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://opensource.org/licenses/Apache-2.0)  [![navoki-notes](https://snapcraft.io//navoki-notes/badge.svg)](https://snapcraft.io/navoki-notes)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://opensource.org/licenses/Apache-2.0)
  
 ![Image](https://i.imgur.com/iSIKA6o.png) [Coming Soon..](https://www.youtube.com/c/navoki)
 
