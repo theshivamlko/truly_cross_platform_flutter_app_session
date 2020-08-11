@@ -16,7 +16,7 @@ I gave a talk on- Make your first Cross Platform app using Flutter that runs on 
 [Navoki Notes](https://github.com/theshivamlko/navoki_notes)
 
 ## Video
-Coming Soon...
+
  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WCg9wIVKo7Y/0.jpg)](https://www.youtube.com/watch?v=WCg9wIVKo7Y) 
 
  
